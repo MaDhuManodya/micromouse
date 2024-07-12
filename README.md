@@ -45,3 +45,8 @@ This project is a comprehensive implementation for a robot that integrates motor
 - **MPU9250:** Provides additional functionality for balancing and navigation.
 - **OLED Display:** Real-time data is displayed on the OLED screen for monitoring and debugging purposes.
 
+
+
+
+
+https://github.com/user-attachments/assets/59ed93db-5aa2-4418-b381-dc3ea9f1b4f6
