@@ -1,0 +1,20 @@
+#######################################
+# Syntax Colouring Map For QueueList
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LinkedListQueue	KEYWORD1
+_node	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+enqueue	KEYWORD2
+dequeue	KEYWORD2
+isEmpty	KEYWORD2
+LinkedListQueue	KEYWORD2
+~LinkedListQueue	KEYWORD2
