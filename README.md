@@ -47,6 +47,9 @@ This project is a comprehensive implementation for a robot that integrates motor
 
 
 
+![mm2](https://github.com/user-attachments/assets/aeacb368-e462-4903-9786-caa83a383c9f)
+![mm1](https://github.com/user-attachments/assets/23ddad3a-62bb-48b0-b401-bb04a89565bc)
+
 
 
 https://github.com/user-attachments/assets/59ed93db-5aa2-4418-b381-dc3ea9f1b4f6
